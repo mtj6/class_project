@@ -1,0 +1,6 @@
+filename = 'senseandsensibility.py'
+
+with open(filename) as f_obj:
+        contents = f_obj.read()
+        words = contents.split()
+        words.lower().count('the')

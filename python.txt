@@ -1,0 +1,3 @@
+In python you can create lists.
+In python you can add things to lists.
+In python you can delete things from lists.

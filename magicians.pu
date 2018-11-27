@@ -1,0 +1,5 @@
+def show_magicians(magicians):
+    print(magicians)
+    
+magicians = ['houdini', 'merlin', 'harry potter']
+show_magicians(magicians)

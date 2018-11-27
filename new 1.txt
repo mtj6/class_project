@@ -1,0 +1,5 @@
+guest = input("\nPlease enter your name: ")
+guest += ("\nEnter q to quit.")
+    
+    while guest != 'q':
+        file_object.write((guest.title()) + "\n")
